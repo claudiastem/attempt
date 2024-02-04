@@ -1,7 +1,5 @@
 # Social Network Mockup
 
-## Group Project
-
 ### Overview
 
 We are embarking on the development of a captivating landing page, meticulously designed to offer an immersive user experience within a social network tailored for a green-focused community. While our primary focus isn't an exhaustive exploration of the user interface intricacies, we prioritize a refined and detailed approach to individual components.
