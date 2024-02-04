@@ -1,16 +1,15 @@
-# End-term Opinno Project
+# Social Network Mockup
 
-## Social Network Mockup
+## Group Project
 
-### Linee generali
+### Overview
 
-Si vuole creare una landing page che riproduca il comportamento della homepage di un social network stile Instagram. Non si mira all'approfondimento dell'utilizzo tramite una UI approfondita, bensì ad una più dettagliata cura dei singoli componenti.
+We are embarking on the development of a captivating landing page, meticulously designed to offer an immersive user experience within a social network tailored for a green-focused community. While our primary focus isn't an exhaustive exploration of the user interface intricacies, we prioritize a refined and detailed approach to individual components.
 
-### L'idea
+### Conceptualization
 
-### L'approccio al lavoro
+Our journey commenced with a thorough analysis of existing competitors, allowing us to extract valuable insights while keeping the focus on an environmentally conscious audience. Following this, our adept designer crafted a comprehensive Figma mockup, featuring a harmonious color palette specifically designed to resonate with themes of sustainability and care for the planet. This included seamless transitions between light and dark modes, enhancing the overall user experience. This strategic design phase served as the foundation for our subsequent development efforts.
 
-React fornisce un sistema di componenti che permette di poter dividere il lavoro con un approccio Bottom-Up che si presta bene alla composizione del nostro team.
+### Methodology
 
-Grazie all'utilizzo dei componenti possiamo spremere al massimo le potenzialità di un framework CSS come Tailwind per poter facilitare la manutenibilità ed evitare la dispersione del codice.
-
+Employing React, we leverage its robust component-based system, adopting a Bottom-Up approach that aligns seamlessly with the dynamic composition of our talented team. Strategically utilizing components enables us to harness the full potential of Tailwind, a versatile CSS framework. This approach not only enhances ease of maintenance but also ensures a cohesive presentation of our green-themed social network, preventing any code dispersion.
